@@ -3,7 +3,7 @@
 The program would be able to read emails and its attachments from a gmail account and compare these with popular virus hashes, determining if it is safe or malicious. Once the email has been confirmed to be malicious or safe, the system can delete the attachment and inform the user whether or not the email is safe to open. This program has real world implications, as it helps prevent loss of valuable data and the collapse of computer networks.
 
 ### Tools
-- _ Python, Visual Studio Code, Tkinter_
+-  *Python, Visual Studio Code, Tkinter*
 
 ![File Path](/images/path.png)
 
